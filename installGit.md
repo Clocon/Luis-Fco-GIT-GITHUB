@@ -8,7 +8,7 @@ Yo, como hasta el momento uso Windows, me descargaré la version recomendada par
 
 ![INSTALL](/gitinstalacion.png)
 
-Durante la instalación, es importante que no nos olvidemos de marcar la opcion *(NEW)!Add a Git Bash Profile to Windows Terminal*.
+Durante la instalación, es importante que no nos olvidemos de marcar la opcion *(NEW)!Add a Git Bash Profile to Windows Terminal*. Después,solo tendremos que hacer click en *Siguiente* e *Instalar* hasta finalizar el proceso.
 
 Con esto ya podremos empezar a usar la terminal GitBash en nuestro equipo.
 ___
