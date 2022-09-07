@@ -1,6 +1,6 @@
 ## Instalación de GIT
 ___
-Aquí vemuestro la instalación de **GIT**.
+Aquí os muestro la instalación de **GIT**.
 
 ![IMAGENWEB](/gitweb.png)
 
