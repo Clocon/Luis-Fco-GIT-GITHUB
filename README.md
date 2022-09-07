@@ -7,7 +7,7 @@ Como Javier explica en su [vídeo](https://www.youtube.com/watch?v=y6XdzBNC0_0 "
 - Hablaremos sobre los siguientes conceptos de Markdown:
   1. Encabezados.
   2. Citas.
-  3. [Enlaces](main/Enlaces.md).
+  3. [Enlaces](/Enlaces.md).
   4. Imágenes.
   5. Código.
 
