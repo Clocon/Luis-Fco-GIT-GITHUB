@@ -4,7 +4,7 @@ Aquí os muestro la instalación de **GIT**.
 
 ![IMAGENWEB](/gitweb.png)
 
-Yo, como hasta el momento uso Windows, me descargaré la version recomendada para la misma.
+Yo, como hasta el momento uso Windows, me descargaré la version recomendada para el mismo.
 
 ![INSTALL](/gitinstalacion.png)
 
