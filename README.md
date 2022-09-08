@@ -11,3 +11,4 @@ En esta página hablaemos sobre **GIT/GITHUB**.
   1. [Sitio web](https://github.com/ "GitHub.com")
   2. [Creamos nuestro proyecto](primerosPasos.md)
   3. [Registro](/registroUsuario.md)
+  4. [Trabajamos en nuestro proyecto](/guiaTrabajo.md)
