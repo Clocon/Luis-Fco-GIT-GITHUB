@@ -16,7 +16,7 @@ ___
 
 [Markdown](https://markdown.es/ "Web oficial"), es un lenguaje que tiene como finalidad crear contenido de una manera **muy sencilla** de escribir y de dar un diseño agradable a la vista y legible.
 
-Aquí Javier os lo explica muy bien, con ejemplos y fácil de entender.
+Aquí Javier, [en su video](https://www.youtube.com/watch?v=y6XdzBNC0_0 "Video sobre Markdown"), os lo explica muy bien, con ejemplos y fácil de entender.
 
 Espero que toda esta información haya sido de ayuda!!
 ___
