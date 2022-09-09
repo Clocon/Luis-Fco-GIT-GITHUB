@@ -2,11 +2,11 @@
 ___
 Aquí os muestro la instalación de **GIT**.
 
-![IMAGENWEB](/gitweb.png)
+![IMAGENWEB](/img/gitweb.png)
 
 Yo, como hasta el momento uso Windows, me descargaré la version recomendada para el mismo.
 
-![INSTALL](/gitinstalacion.png)
+![INSTALL](/img/gitinstalacion.png)
 
 Durante la instalación, es importante que no nos olvidemos de marcar la opcion *"(NEW)!Add a Git Bash Profile to Windows Terminal"*. Después, Sólo tendremos que hacer click en *Siguiente* e *Instalar* hasta finalizar el proceso.
 
